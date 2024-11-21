@@ -116,8 +116,8 @@ const App = () => {
 //     return (
 //         <Stack.Navigator>
 //             {(number > 5) ? (
-//                 <Stack.Screen name="ScreenA" component={ScreenA} />
-//             ) : (<Stack.Screen name="ScreenB" component={ScreenB} />
+//                 <Stack.Screen name="ScreenB" component={ScreenB} />
+//             ) : (<Stack.Screen name="ScreenA" component={ScreenA} />
 //             )}
 //         </Stack.Navigator>
 //     );
